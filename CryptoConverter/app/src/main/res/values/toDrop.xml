@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="toDrop_array">
+        <item>BTC</item>
+        <item>LTC</item>
+        <item>LINX</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>JPY</item>
+    </string-array>
+</resources>
